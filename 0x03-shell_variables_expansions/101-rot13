@@ -1,2 +1,2 @@
 #!/bin/bash
-tr '[A-Za_z]' 'N-zA-Mn-za-m]'
+tr 'NO-hikjl' '/kO-[n-ki-ml'
