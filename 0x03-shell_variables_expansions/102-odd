@@ -1,2 +1,2 @@
-#!/bi/bash
+#!/bin/bash
 cat -n | cut -c6- | grep -vp "[02468]\t" |
